@@ -15,9 +15,9 @@ I'm a Mobile developer  focusing on full-stack serverless Mobile, Web, and Deskt
 - 👋 Hi,i'm currently working on my backend and making customers happy 
 - :blush: i'm currently learning NodeJs Express and PHP
 - :alien:  Pronouns: he/him
-- :relaxed: I'm looking to collaborate on a flutter application
+- :speech_balloon: I'm looking to collaborate on a flutter application
 - :anger: i'm looking for help with UI/UX designe
-- :grey_question: Ask me about Flutter and Android Native and also .Net !!
+- :love_letter: Ask me about Flutter and Android Native and also .Net !!
 - 📫 How to reach me : [Linkdine](https://www.linkedin.com/in/bouziani-mohammed-10003319a/)
 
 <!---
