@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">👋 Hi, I’m @Mbouziani</h1>  
 <div width="300" align="center">
-I'm a Mobile developer  focusing on full-stack serverless Mobile, Web, and Desktop applications.
+I'm a Flutter developer  focusing on full-stack serverless Mobile, Web, and Desktop applications.
 </div>
 
 <h3 align="left"> :exclamation: Get Started :exclamation:</h3>  
