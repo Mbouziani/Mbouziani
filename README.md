@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">👋 Hi, I’m @Mbouziani</h1>  
 <div width="300" align="center">
-I'm a Flutter developer  focusing on full-stack serverless Mobile, Web, and Desktop applications.
+I'm a Software developer focusing on full-stack serverless Mobile, Web, and Desktop applications.
 </div>
 
 <h3 align="left"> :exclamation: Get Started :exclamation:</h3>  
@@ -13,11 +13,11 @@ I'm a Flutter developer  focusing on full-stack serverless Mobile, Web, and Desk
 
 
 - 👋 Hi,i'm currently working on my backend and making customers happy 
-- :blush: i'm currently learning NodeJs Express and PHP
+- :blush: i'm currently learning NodeJs Express 
 - :alien:  Pronouns: he/him
-- :speech_balloon: I'm looking to collaborate on a flutter application
+- :speech_balloon: I'm looking to collaborate on a Mobile application
 - :anger: i'm looking for help with UI/UX designe
-- :love_letter: Ask me about Flutter and Android Native and also .Net !!
+- :love_letter: Ask me about Flutter, Android Native and also .Net !!
 - 📫 How to reach me : [Linkdine](https://www.linkedin.com/in/bouziani-mohammed-10003319a/)
 
 <!---
