@@ -11,13 +11,7 @@ I'm a Software developer focusing on full-stack serverless Mobile, Web, and Desk
 <h3 align="left"> :exclamation: Get Started :exclamation:</h3>  
 
 <p align="center"> <img src="https://img.shields.io/github/followers/Mbouziani?color=1f222e&label=Followers&style=social" alt="Mbouziani" /> </p>
-### Streak stats
-
-<p align="center">
-  <a href="https://github.com/Mbouziani">
-    <img alt="Emad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mbouziani&hide_border=true&bg_color=1F222E"/>
-  </a>
-</p>
+ 
 
 ### Github stats
 
